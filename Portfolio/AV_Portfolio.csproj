@@ -94,7 +94,7 @@
     <Content Include="css\perfect-scrollbar.css" />
     <Content Include="css\prism.css" />
     <Content Include="css\reset.css" />
-    <Content Include="img\favicon-16x16.png" />
+    <Content Include="favicon.ico" />
     <Content Include="img\portfolio\full\bugcatcher.jpg" />
     <Content Include="img\portfolio\full\bugcatcher2.jpg" />
     <Content Include="img\portfolio\full\comp_stock.jpg" />
