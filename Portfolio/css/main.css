@@ -389,9 +389,9 @@ input[type="submit"]:last-child,
   transition: all 0.3s ease-in-out;
 }
 
-    .lmpixels-arrows-nav div:hover {
-        color: mediumslateblue;
-    }
+.lmpixels-arrows-nav div:hover {
+    color: mediumslateblue;
+}
 /* --- End LMPixels Arrow Nav --- */
 
 .header-photo {
