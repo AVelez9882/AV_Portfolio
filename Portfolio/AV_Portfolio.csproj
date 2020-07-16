@@ -96,15 +96,14 @@
     <Content Include="css\reset.css" />
     <Content Include="favicon.ico" />
     <Content Include="img\portfolio\full\bugcatcher.jpg" />
-    <Content Include="img\portfolio\full\bugcatcher2.jpg" />
-    <Content Include="img\portfolio\full\comp_stock.jpg" />
+    <Content Include="img\portfolio\full\cat.jpg" />
     <Content Include="img\portfolio\full\deskwork.gif" />
-    <Content Include="img\portfolio\full\fizzbuzz.jpg" />
+    <Content Include="img\portfolio\full\fizz.jpg" />
+    <Content Include="img\portfolio\full\forest.jpg" />
     <Content Include="img\portfolio\full\intro.gif" />
     <Content Include="img\portfolio\full\keyboard.jpg" />
     <Content Include="img\portfolio\full\laptop.gif" />
     <Content Include="img\portfolio\full\main_bg.png" />
-    <Content Include="img\portfolio\full\math.jpg" />
     <Content Include="img\portfolio\full\profile.jpg" />
     <Content Include="img\portfolio\full\profile_bg.jpg" />
     <Content Include="img\portfolio\full\program.gif" />
@@ -112,6 +111,7 @@
     <Content Include="img\blog\purple road.jpg" />
     <Content Include="img\portfolio\full\purple_comp.jpg" />
     <Content Include="img\blog\tacocat.jpg" />
+    <Content Include="img\portfolio\full\sunset.jpg" />
     <Content Include="img\portfolio\full\webdev.gif" />
     <Content Include="index.html" />
     <Content Include="js\animating.js" />
