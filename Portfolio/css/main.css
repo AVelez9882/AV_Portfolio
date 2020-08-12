@@ -507,6 +507,13 @@ input[type="submit"]:last-child,
 /* ------------------------------------------------------------
 5. Page Content
 ------------------------------------------------------------ */
+.mainImage {
+    background-repeat: no-repeat;
+    min-height: 100%;
+    
+}
+
+
 .content-area {
   position: absolute;
   right: 0;
@@ -2799,11 +2806,12 @@ blockquote {
 }
 
 .title-block .sp-subtitle {
-  color: black;
+  color: white;
   font-size: 30px;
   font-weight: 300;
   margin: 5px 0;
   text-align: center;
+  position: relative;
 }
 
 .text-rotation {
