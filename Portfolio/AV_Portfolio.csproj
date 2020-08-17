@@ -106,6 +106,10 @@
     <Content Include="img\portfolio\full\laptop.gif" />
     <Content Include="img\portfolio\full\main_bg.png" />
     <Content Include="img\portfolio\full\profile.jpg" />
+    <Content Include="img\portfolio\full\profile1 %282%29.jpg" />
+    <Content Include="img\portfolio\full\profile1.jpg" />
+    <Content Include="img\portfolio\full\profile2.jpg" />
+    <Content Include="img\portfolio\full\profile3.jpg" />
     <Content Include="img\portfolio\full\program.gif" />
     <Content Include="img\portfolio\full\programming.jpg" />
     <Content Include="img\blog\purple road.jpg" />
