@@ -96,6 +96,7 @@
     <Content Include="css\reset.css" />
     <Content Include="favicon.ico" />
     <Content Include="img\portfolio\full\aboutme.jpg" />
+    <Content Include="img\portfolio\full\android-chrome-192x192.png" />
     <Content Include="img\portfolio\full\bugcatcher.jpg" />
     <Content Include="img\portfolio\full\cat.jpg" />
     <Content Include="img\portfolio\full\deskwork.gif" />
