@@ -102,6 +102,7 @@
     <Content Include="img\portfolio\full\deskwork.gif" />
     <Content Include="img\portfolio\full\fizz.jpg" />
     <Content Include="img\portfolio\full\forest.jpg" />
+    <Content Include="img\portfolio\full\githublogo.png" />
     <Content Include="img\portfolio\full\intro.gif" />
     <Content Include="img\portfolio\full\keyboard.jpg" />
     <Content Include="img\portfolio\full\laptop.gif" />
